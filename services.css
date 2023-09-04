@@ -107,13 +107,260 @@ section{
     color: var(--second-bg-color);
 }
 
-.sc{
+.a{
     text-align: center;
     margin-top: -91px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(49, 58, 58);
     background-color: rgb(47, 214, 158);
     font-size: 18px;
+    border-radius: 20px;
+}
+
+.b{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    background-color: rgb(64, 213, 163);
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+.c{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(49, 58, 58);
+    background-color: rgb(129, 217, 188);
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.d{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(49, 58, 58);
+    background-color: rgb(166, 193, 184);
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+.e{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(169, 188, 181);
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.f{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    background-color: rgb(107, 249, 201);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+.g{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(17, 221, 153);
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.h{
+    text-align: center;
+    margin-top: -91px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(24, 242, 169);
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+.i{
+    text-align: center;
+    margin-top: -91px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(131, 246, 208);
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.j{
+    text-align: center;
+    margin-top: -91px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(122, 210, 181);
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+.k{
+    text-align: center;
+    margin-top: -91px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(177, 213, 201);
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.l{
+    text-align: center;
+    margin-top: -91px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(206, 213, 211);
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+.m{
+    text-align: center;
+    margin-top: -91px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(170, 174, 173);
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.n{
+    text-align: center;
+    margin-top: -91px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(9, 199, 135);
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+.o{
+    text-align: center;
+    margin-top: -91px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(3, 217, 146);
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.p{
+    text-align: center;
+    margin-top: -91px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(217, 220, 219);
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+.q{
+    text-align: center;
+    margin-top: -91px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(101, 172, 148);
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.r{
+    text-align: center;
+    margin-top: -91px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(166, 220, 202);
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+.s{
+    text-align: center;
+    margin-top: -91px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(173, 216, 202);
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.t{
+    text-align: center;
+    margin-top: -91px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(184, 216, 206);
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+.u{
+    text-align: center;
+    margin-top: -91px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(248, 144, 144);
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.v{
+    text-align: center;
+    margin-top: -91px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 58, 58);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(227, 194, 194);
+    font-size: 25px;
+    border-radius: 20px;
 }
 
 .hd{
@@ -121,7 +368,10 @@ section{
     margin: 92px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #292930;
-    background-color: #ffffff;
+    background-color: #ffa9a9;
     font-size: 18px;
+    border-radius: 20px;
+    margin-bottom: 100px;
+    margin-top: 100px;
 }
 
